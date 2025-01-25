@@ -9,18 +9,14 @@
 
 
 
-<a href="http://www.inpt.ac.ma/" target="_blank">INPT</a> Rabat, Morocco.
+<a href="https://www.google.com/search?gs_ssp=eJzj4tLP1TdILjKpMDYyYPRizcgsScwFADV6BYk&q=hitam&oq=hitam&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIMCAIQIxgnGIAEGIoFMgwIAxAjGCcYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzNjUwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8">hitam</a>
 
-
-<div style="text-align:center;padding-top:20px">
-    <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
-</div>
 
 <h4>Project contributors :</h4>
 
  * [Ragula shiva shankar] <br/>
  * [T. pavan kumar]   <br/>
- * [Manoj vardheneni]
+ * [Manoj vardheneni]<br/>
  *[M.jaswanth] <br/>
 
 <h4> Project advisor :</h4>
