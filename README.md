@@ -3,16 +3,14 @@
    This academic project is about using machine learning algorithms to predict whether or not a student would pass the final exam. 
    The data set used is from UCI Machine Learning Repository.
 
-
+<div style="text-align:center;padding-top:20px" >
+    <img src="https://blog.kinems.com/content/images/2018/04/Tracking_Headline.png" />
+</div>
 
 
 
 <a href="https://www.google.com/search?gs_ssp=eJzj4tLP1TdILjKpMDYyYPRizcgsScwFADV6BYk&q=hitam&oq=hitam&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIMCAIQIxgnGIAEGIoFMgwIAxAjGCcYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzNjUwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8">hitam</a>
 
-
-<div style="text-align:center;padding-top:20px">
-    <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
-</div>
 
 <h4>Project contributors :</h4>
 
