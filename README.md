@@ -4,7 +4,7 @@
    The data set used is from UCI Machine Learning Repository.
 
 <div style="text-align:center;padding-top:20px" >
-    <img src="https://blog.kinems.com/content/images/2018/04/Tracking_Headline.png" />
+    <img src="C:\Users\ragul\OneDrive\Pictures\Screenshots\Screenshot 2025-02-07 175311.png" />
 </div>
 
 
