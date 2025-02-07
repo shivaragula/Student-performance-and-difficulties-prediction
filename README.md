@@ -4,7 +4,7 @@
    The data set used is from UCI Machine Learning Repository.
 
 <div style="text-align:center;padding-top:20px" >
-    <img src="C:\Users\ragul\OneDrive\Pictures\Screenshots\Screenshot 2025-02-07 175311.png" />
+    <img src="[C:\Users\ragul\OneDrive\Pictures\Screenshots\Screenshot 2025-02-07 175311.png](https://chatgpt.com/c/67a5f7ff-856c-8004-afa7-8ca77d3bf8a3)" />
 </div>
 
 
